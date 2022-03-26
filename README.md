@@ -1,12 +1,14 @@
 # IMDb Top Movie Webscraping by Python
 
-This project is data engineering project that gathering data from external source, IMdb, to extract top movies and export to CSV file for data analysic and data science team.
+This project is data engineering project that gathering data from external source, IMdb, to extract top movies and export to CSV file for data analysic and data science team. This is a full code example for web scarping article on medium
+
+https://medium.com/@a.anekpattanakij/retrieve-data-from-imdb-by-python-e83a4d9ee9ff
 
 It is scraped by using Python 3 on Jupyter Notebook.
 
 
 # The Objectives of this Project
-This project will demonstrate how data engineer will prepare the external data source from website by utilizing web scarping method.
+This project will demonstrate how data engineer will prepare the external data source from website by utilizing web scarping method, because data engineer have to prepare the data in the easy to use format to let data analyse or data scientist use it easily.
 
 
 # How to run the notebook
