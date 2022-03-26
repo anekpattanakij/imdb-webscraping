@@ -23,5 +23,5 @@ This project will demonstrate how data engineer will prepare the external data s
 - re
 
 # File Description
-Web Scraping Top Move from IMDb.ipynb : This is Jupyter Notebook file. Run this file to scarp the data and export the result.
-top_movie_data.csv : These is the result file that we have extracted from IMdb web.
+- Web Scraping Top Move from IMDb.ipynb : This is Jupyter Notebook file. Run this file to scarp the data and export the result.
+- top_movie_data.csv : These is the result file that we have extracted from IMdb web.
