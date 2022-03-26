@@ -1,4 +1,4 @@
-# Imdb Top Movie Webscraping by Python
+# IMDb Top Movie Webscraping by Python
 
 This project is data engineering project that gathering data from external source, IMdb, to extract top movies and export to CSV file for data analysic and data science team.
 
